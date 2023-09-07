@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.nav{
+   
+    width: 100%;
+    height: 10vh;
+    background-color: navajowhite;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.nav h3{
+    margin-top: 24px;
+    margin-left: 12px;
+    font-size: 20px;
+}
+.mid{
+    margin-top: 24px;
+    word-spacing: 20px;
+  
+}
+a{
+    text-decoration: none;
+    font-family: revert;
+    font-size: 19px;
+    font-weight: 700;
+}
+.last{
+    margin-top: 21px;
+    word-spacing: 13px;
+}
+.last button{
+    width: 82px;
+    height: 28px;
+    border:none;
+    border-radius: 12px;
+    background-color: cornflowerblue;
+    color: white;
+    margin-right: 7px;
+}
+
+/* section 1 */
+
+
+.section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section .secf{
+    margin-top: 150px;
+    margin-left: 60px;
+   
+}
+.secf h1{
+    font-size: xxx-large;
+    color: black;
+    margin-bottom: 25px;
+}
+.secf h3{
+    color: blue;
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+.section button{
+    margin-top: 37px;
+    width: 111px;
+    height: 4vh;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+    color: white;
+}
+.section img{
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+
+
+
+/* section 2 */
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.section2-right .secf2{
+    border: 1px solid red;
+    border-radius: 25px;
+    margin-bottom: 22px;
+}
+
+.secf2 .secf2-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 22px;
+    margin-bottom: 18px;
+}
+
+.secf2-1 h1{
+    font-size: 75px;
+    color: cadetblue;
+}
+
+.secf2-1 p{
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.secf2 p{
+    margin-left: 25px;
+    margin-right: 15px;
+    /* margin-top: -19px; */
+    margin-bottom: 20px;
+    font-family: system-ui;
+}
+
+
+
+.section2-right .secf3{
+    border: 1px solid red;
+    border-radius: 25px;
+    margin-bottom: 22px;
+}
+
+.secf3 .secf3-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 22px;
+    margin-bottom: 18px;
+}
+
+.secf3-1 h1{
+    font-size: 75px;
+    color: cadetblue;
+}
+
+.secf3-1 p{
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.secf3 p{
+    margin-left: 25px;
+    margin-right: 15px;
+    /* margin-top: -19px; */
+    margin-bottom: 20px;
+    font-family: system-ui;
+}
+
+
+.section2-right .secf4{
+    border: 1px solid red;
+    border-radius: 25px;
+    margin-bottom: 22px;
+}
+
+.secf4 .secf4-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 22px;
+    margin-bottom: 18px;
+}
+
+.secf4-1 h1{
+    font-size: 75px;
+    color: cadetblue;
+}
+
+.secf4-1 p{
+    margin-top: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+.secf4 p{
+    margin-left: 25px;
+    margin-right: 15px;
+    /* margin-top: -19px; */
+    margin-bottom: 20px;
+    font-family: system-ui;
+}
+
+
+
+
+
+
+
+
+/* footer */
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: navajowhite;
+    margin-top:35px;
+}
+ 
+.foot1 h1{
+    margin-top: 35px;
+
+}
+.foot1 p{
+    margin-top: 20px;
+    color: blue;
+}
+
+.foot1 button{
+    margin-top: 30px;
+    width: 44%;
+    height: 5vh;
+    border: none;
+    border-radius: 12px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.foot2 h3{
+    margin-top: 40px;
+}
